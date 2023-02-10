@@ -1,0 +1,10 @@
+django==4.0.5
+Pillow==9.4.0
+djangorestframework==3.14.0
+django-filter==22.1
+mysqlclient==2.1.1
+psycopg2>=2.8
+django-cors-headers==3.13.0
+python-dotenv==0.21.1
+gunicorn==20.1.0
+django-heroku==0.3.1
